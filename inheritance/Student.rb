@@ -1,4 +1,4 @@
-require 'person.rb'
+require 'Person.rb'
 
 class Student < Person
   attr_accessor :course
